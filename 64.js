@@ -37,5 +37,3 @@ person1.age=40;
 // console.log(person1.firstname);
 // console.log(person1.lastname);
 // console.log(person1.age);
-
-
